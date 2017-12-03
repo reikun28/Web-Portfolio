@@ -1,0 +1,45 @@
+body 
+  {
+    background-image: url("b12.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 180%;
+    background-attachment: fixed;
+	}
+
+b
+  {
+    font-family: Century Gothic;
+    font-size: 60px;
+    color: White;
+    padding-left: 20px;
+
+  } 
+ul li
+  {
+    font-family: Century Gothic;
+  }
+
+a:link{color:lightblue;
+	text-decoration:none;
+	text-align:left;
+	font-size:20;
+	font-family:Lucida Calligraphy; }
+
+a:hover, a:active {background-color: none;}
+
+div.img a:hover img {
+    border: 1px solid #0000ff;
+    background: beige;
+   
+}
+
+div.an img {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+div.an img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
+

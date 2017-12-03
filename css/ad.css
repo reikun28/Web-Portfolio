@@ -1,0 +1,70 @@
+div.ana{
+	background-color:black;
+	opacity:1.9;
+	margin-top:0px;
+	margin-bottom:0px;}
+
+
+div.a{
+	background-color:black;
+	opacity:1.9;
+	margin-top:100px;
+	margin-bottom:50px;
+	margin-left:125px;
+	margin-right:120px;
+	padding-top: 35px;
+	height: 650px;}
+
+.col-md-3 col-sm-3 col-xs-6{
+	padding: 25 45 25 50;
+	} 
+
+
+  footer {
+       text-color: black;
+      background-color: white;
+
+    }
+
+div.b{background-color:lightgreen;
+      	opacity:1.0;
+	border:5px solid violet;
+	border-radius:25px;
+	 margin-top:10px;
+	word-spacing:15px;
+	 padding-top:10px;
+	 padding-bottom:-20cm;}
+
+a:link{color:lightblue;
+	text-decoration:none;
+	text-align:left;
+	font-size:20;
+	font-family:Lucida Calligraphy; }
+
+
+body 
+  {
+    background-image: url("b12.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 180%;
+    background-attachment: fixed;
+	}
+
+b
+  {
+    font-family: Century Gothic;
+    font-size: 60px;
+    color: White;
+    padding-left: 20px;
+
+  } 
+
+
+
+
+
+
+
+
+
+
