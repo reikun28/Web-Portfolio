@@ -1,0 +1,25 @@
+
+#logo
+{
+	height:120px;
+	width:250px;
+	left: 5px;
+	top: -37px;
+	position: fixed;
+}
+#mainNavbar ul li a
+{
+	border: 1px solid #222222;
+	border-radius: 16px;
+	margin: 10px 10px;
+	padding: 6px 10px;
+	color: white;
+	font-size: 13px;
+	font-family: century gothic
+}
+#mainNavbar ul li a:hover
+{
+	color: #ff6f00;
+    	transition: 0.5s;
+}
+
